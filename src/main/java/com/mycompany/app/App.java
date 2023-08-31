@@ -19,8 +19,7 @@ public class App
     }
     public static void main(String[] args)
     {
-        Scanner sc = new Scanner(System.in);
-        char ch = sc.next().charAt(0);
+        char ch = 'c';
 
         App a1 = new App();
         a1.Alpha_To_Numerical(ch);
