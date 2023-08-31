@@ -20,7 +20,7 @@ public class App
     public static void main(String[] args)
     {
         char ch = 'c';
-        System.out.println("THe value is :");
+        System.out.print("THe value is :");
         App a1 = new App();
         a1.Alpha_To_Numerical(ch);
     }
